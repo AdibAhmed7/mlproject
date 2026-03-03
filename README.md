@@ -259,4 +259,4 @@ This project is open source. See the repository for license details.
 
 ---
 
-*Built with ❤️ by [Adiba Ahmed](https://github.com/AdibaAhmed07)*
+*Built with ❤️ by [Adib Ahmed](https://github.com/AdibaAhmed07)*
